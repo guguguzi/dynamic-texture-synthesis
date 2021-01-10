@@ -1,7 +1,7 @@
 # 动态纹理生成-计算机视觉
 [github](https://github.com/guguguzi/dynamic-texture-synthesis)
 
-## Requirements
+## 运行前配置
 - 运行环境：Python2.7, Tensorflow1.3
 - 数据集：使用Dyntex数据集[点此下载](https://drive.google.com/file/d/1QupB8gBglM5orjCDCTli1VUchdGDgxTN/view?usp=sharing)
 - Appearance-stream [tfmodel](https://drive.google.com/file/d/1gYIEP6kPIgHxWW465kQ_QiwVoQq9Mx7H/view?usp=sharing)
